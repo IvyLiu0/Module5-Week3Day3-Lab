@@ -1,0 +1,85 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.Desc {
+  padding: 30px;
+}
+
+span {
+  font-size: 0.8em;
+  border: solid 1px lightgray;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.navItem {
+  background-color: rgb(0, 183, 255);
+  display: flex;
+  height: 100px;
+}
+
+.Logo {
+  color: white;
+  text-decoration: none;
+  position: absolute;
+  margin-top: 30px;
+  left: 50px;
+}
+
+.navCart {
+  color: white;
+  position: absolute;
+  margin-top: 40px;
+  right: 100px;
+}
+
+.faShoppingCart {
+  color: white;
+}
+
+.quantity {
+  display: inline;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+.CartItems {
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-bottom: 20px;
+}
+
+.CartItem  {
+  margin-top: 30px;
+  margin-left: 100px;
+}
+
+.CartImage {
+  margin-left: 100px;
+}
+
+a:hover {
+  color: white;
+}
+
+.CheckOut {
+  width: 150px;
+  margin-left: 100px;
+  margin-top: 30px;
+  margin-bottom: 100px;
+}
+
+.ListGroup {
+  margin: 50px 100px;
+}
+
+.Lite {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.Contiue {
+  margin-left: 200px;
+}
